@@ -1,0 +1,46 @@
+
+#overlay {
+  background-color: #0f1217;
+  opacity: .6;
+}
+.green .color {
+  color: #f36058;
+}
+.green .btn-theme {
+  color: #ffffff;
+  background-color: #f36058;
+  border-color: #f36058;
+}
+.green .btn-theme.border {
+  color: #f36058;
+  background-color: transparent;
+  border-color: #f36058;
+}
+.green .btn-theme:hover,
+.green .btn-theme:focus,
+.green .btn-theme.focus,
+.green .btn-theme:active,
+.green .btn-theme.active,
+.open > .dropdown-toggle.green .btn-theme {
+  color: #f36058;
+  background-color: transparent;
+  border-color: #f36058;
+}
+.green .btn-theme.border:hover,
+.green .btn-theme.border:focus,
+.green .btn-theme.border.focus,
+.green .btn-theme.border:active,
+.green .btn-theme.border.active,
+.open > .border.dropdown-toggle.green .btn-theme.border {
+  color: #ffffff;
+  background-color: #f36058;
+  border-color: #f36058;
+}
+.green .services-grid .icons {
+  color: #f36058;
+}
+.green #subscribe-form .input-group-btn > .btn:hover,
+.green #subscribe-form .input-group-btn > .btn:focus {
+  background-color: transparent;
+  border-color: #f36058;
+}
